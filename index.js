@@ -27,8 +27,9 @@ $(document).ready(function () {
                 $('.nav-list').css('background-color', `${targetColor}`);
 
             }
+            $('title').text(`ait wihi | ${name}`);
         }
-        $('title').text(`ait wihi | ${name}`);
+        
     });
 
 
