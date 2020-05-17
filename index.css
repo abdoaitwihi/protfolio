@@ -131,11 +131,12 @@ justify-content: space-around;
 .projects-page {
     background-color: #77808f;
 }
-.project-more{
 
-}
 .project-more-btn{
-    
+cursor: pointer;
+}
+.project-more-btn:hover {
+    text-decoration: underline;
 }
 
 /*end of projects page*/
