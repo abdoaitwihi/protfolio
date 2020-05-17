@@ -163,8 +163,7 @@ $(document).ready(function () {
                 $('.button-next p , .button-next .fas').css('color', 'rgb(0, 0, 0)');
                 break;
         }
-        console.log('object')
-        console.log(colors)
+       
     }, 200);
 
 });
